@@ -1,0 +1,1 @@
+# Structural-Analysis-of-Simply-Supported-Beams-with-Point-and-Distributed-Loads
